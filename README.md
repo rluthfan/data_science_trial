@@ -1,1 +1,3 @@
-NumPy implementations of machine learning models and algorithms
+# Machine Learning From Scratch
+
+Python NumPy implementations of some of the most common Machine Learning models and algorithms from scratch
