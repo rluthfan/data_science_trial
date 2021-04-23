@@ -4,9 +4,11 @@ Python NumPy implementations of some of the most common Machine Learning models 
 
 ## Algorithms Implemented
 
-1. k-Nearest Neighbors
-2. Naive Bayes
-3. Decision Tree
+1. k-Nearest Neighbors Classification
+2. Naive Bayes Classification
+3. Decision Tree Classification
+4. Gaussian Process Regression
+5. k-Means Clustering
 
 ## Dataset Used
 
